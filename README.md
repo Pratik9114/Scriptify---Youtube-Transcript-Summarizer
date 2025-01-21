@@ -1,1 +1,1 @@
-# Scriptify---Youtube-Transcript-Summarizer
+# Scriptify-UI
